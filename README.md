@@ -1,3 +1,6 @@
+## React Project
+React 개발공부를 위한 고객관리프로젝트입니다. ( Management Program )
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
